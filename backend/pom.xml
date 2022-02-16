@@ -220,7 +220,7 @@
     <version.thorntail>2.5.0.Final</version.thorntail>
     <version.restassured>3.0.7</version.restassured>
     <version.assertj>3.8.0</version.assertj>
-    <version.postgresql>42.2.2</version.postgresql>
+    <version.postgresql>42.3.3</version.postgresql>
     <version.resteasy>3.0.24.Final</version.resteasy>
     <version.h2>1.4.187</version.h2>
     <version.awaitility>3.1.0</version.awaitility>
