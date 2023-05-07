@@ -221,7 +221,7 @@
     <version.restassured>3.0.7</version.restassured>
     <version.assertj>3.8.0</version.assertj>
     <version.postgresql>42.2.2</version.postgresql>
-    <version.resteasy>3.0.24.Final</version.resteasy>
+    <version.resteasy>3.15.1.Final-redhat-00001</version.resteasy>
     <version.h2>2.1.210</version.h2>
     <version.awaitility>3.1.0</version.awaitility>
   </properties>
